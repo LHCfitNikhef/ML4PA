@@ -19,3 +19,18 @@ https://vu-live.zoom.us/j/95130793497
 
 Meeting ID: 951 3079 3497
 Passcode: 225910
+
+*Zoom coordinates for Tutorials 3,4,5 and 6*
+
+Time: Oct 1, 2020 09:00 AM Amsterdam, Berlin, Rome, Stockholm, Vienna
+       
+- Oct 1, 2020 09:00 AM
+
+- Oct 8, 2020 09:00 AM
+
+- Oct 15, 2020 09:00 AM
+
+https://vu-live.zoom.us/j/93033049186
+
+Meeting ID: 930 3304 9186
+Passcode: 657045
