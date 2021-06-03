@@ -162,6 +162,7 @@ class Spectral_image(data.Dataset):
             signal_pixel = np.log(signal_pixel)
             plt.ylabel("log intensity")
         plt.plot(self.deltaE, signal_pixel, label="[" + str(j) + "," + str(i) + "]")
+        plt.xlabel("eV")
         plt.legend()
         plt.show()
         return signal_pixel
