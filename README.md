@@ -11,4 +11,4 @@ If you have any question, please contact one of the members of the course team:
 
 - Juan Rojo (j.rojo@vu.nl), course coordinator and main instructor
 - Tommaso Giani (tgiani@nikhef.nl), teaching assistant
-- Ryan van Mastrigt (ryanvmastrigt@gmail.com), teaching assistant
+- Ryan van Mastrigt (r.vanmastrigt@uva.nl), teaching assistant
