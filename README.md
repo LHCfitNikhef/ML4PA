@@ -1,4 +1,4 @@
-# ML4PA (2021-2021)
+# ML4PA (2021-2022)
 GitHub repository for the Machine Learning for Physics and Astronomy course, Natuur- en Sterrenkunde Joint UvA/VU BSc degree
 
 In this repository you will find all the course materials, including
