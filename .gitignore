@@ -8,3 +8,4 @@ tutorials/tutorial2/.ipynb_checkpoints/tutorial2-gradientdescent-checkpoint.ipyn
 tutorials/tutorial1/.ipynb_checkpoints/tutorial1-modelfitting-checkpoint.ipynb
 tutorials/tutorial1/.ipynb_checkpoints/tutorial1-modelfitting-checkpoint.ipynb
 tutorials/tutorial1/.ipynb_checkpoints/tutorial1-modelfitting-checkpoint.ipynb
+*.key
